@@ -1,0 +1,3 @@
+/home/runner/CloudyCylindricalArchitects/build/out/CMakeFiles/cloudy.dir
+/home/runner/CloudyCylindricalArchitects/build/out/CMakeFiles/edit_cache.dir
+/home/runner/CloudyCylindricalArchitects/build/out/CMakeFiles/rebuild_cache.dir
